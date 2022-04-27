@@ -8,7 +8,7 @@ The style guide is generated at https://landlordhq.github.io/style-guide/
 
 # Development
 Run `hugo server` then check the console for the URL to open
-We're missing some steps here...
+We're missing some steps here.
 
 # Using production CSS (default)
 By default the style guide uses the production bootstrap CSS hosted here: https://app.steadily.com/static/base_agent_spa.css
