@@ -3,7 +3,7 @@
 }
 
 .dropdown-item-danger {
-  color: var(--bs-red);
+  color: var(--bs-blue);
 }
 .dropdown-item-danger:hover,
 .dropdown-item-danger:focus {
